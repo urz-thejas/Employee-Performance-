@@ -1,0 +1,24 @@
+# Python & Backend
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+backend/data/*.joblib
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+*.log
+npm-debug.log*
+
+# Environment & OS
+.env
+.env.local
+.env.production.local
+.DS_Store
+Thumbs.db
